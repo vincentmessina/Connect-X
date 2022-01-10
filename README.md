@@ -1,1 +1,1 @@
-# Connect-X can analyze games of Connect'4', however this could be extended to any size of the board.
+# Connect-X can analyze games of Connect'4', what makes this special is that I have extended it to support analysis of games with any sized board. 
